@@ -1,2 +1,2 @@
-# Medicibe_easy
+# Medicibe Easy
 Online Medical Store
